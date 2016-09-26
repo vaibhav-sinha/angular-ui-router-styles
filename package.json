@@ -2,6 +2,7 @@
   "name": "angular-ui-router-styles",
   "version": "1.0.0",
   "private": false,
+  "main": "ui-router-styles.js",
   "scripts": {
     "test": "grunt test"
   },
